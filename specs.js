@@ -1,5 +1,5 @@
 require.paths.push("./lib");
-var jasmine = require('jasmine');
+var jasmine = require('jazz');
 var sys = require('sys');
 
 for(var key in jasmine) {

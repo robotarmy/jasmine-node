@@ -1,0 +1,5 @@
+---
+  name: jazz 
+  description: Jazz is a Fusion of Jasmine-Node and Jasmine 
+  tags: bdd tdd unit test jasmine node 
+  version: 0.0.2
