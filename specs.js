@@ -1,5 +1,5 @@
 require.paths.push("./lib");
-var jasmine = require('jazz');
+var jasmine = require('jasmine');
 var sys = require('sys');
 
 // this is needed for asyncSpecWait
